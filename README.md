@@ -1,1 +1,1 @@
-## App will not work Without Config.js File password for MongoDB If ##
+## App will not work Without Config.js File password for MongoDB ##
